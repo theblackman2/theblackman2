@@ -18,11 +18,7 @@
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=theblackman2&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
-<br/>  
-
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=31ooy2d56ummppbeqig4qkm3h3lm&cover_image=true&theme=default" /></div>  
-
-<br/>  
+<br/>
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=theblackman2&&style=flat-square" align="center" />
